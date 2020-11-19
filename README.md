@@ -1,13 +1,10 @@
-### Hello, I'm Richard Pusvita Ridwan and you can call me Richard 👋
+### Hello, my name is Richard Pusvita Ridwan! 
 
--  I’m currently working in PT Asuransi Jiwa Sequis Life as the Partner Operations and Integrations Senior Officer.
--  I’m currently learning everything 🤣
--  I’m looking to collaborate with other content creators
+-  Working with amazing team at Sequis Digital Channel.
+-  Currently striving to learn more and more everyday.
+-  Now curious in learning Python, Golang and Typescript.
+
+> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
 ### Github Stats:
 ![Richard's github stats](https://github-readme-stats.vercel.app/api?username=richardridwan20&count_private=true&show_icons=true)
-
----
-
-### Top Langs:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardridwan20)](https://github.com/anuraghazra/github-readme-stats)

@@ -3,7 +3,6 @@
 ![Linkedin Badge](https://img.shields.io/badge/richard1998-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/richard1998/)
 ![Behance Badge](https://img.shields.io/badge/Behance-informational?style=flat&logo=behance&link=https://www.behance.net/richardrid3d36)
 
--  Working with amazing team at Sequis Digital Channel.
 -  Currently striving to learn more and more everyday.
 -  Now curious in learning Python, Golang and Typescript.
 

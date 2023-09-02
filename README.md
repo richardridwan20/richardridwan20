@@ -12,6 +12,7 @@
 
 
 -  Currently striving to learn more and more everyday.
--  Now curious in learning Scala and Python!
+-  Now curious in learning **Scala** and **Python**!
+-  今わに日本語勉強します！
 
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein

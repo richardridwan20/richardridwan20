@@ -16,3 +16,6 @@
 -  今わに日本語勉強します！
 
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

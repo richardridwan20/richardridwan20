@@ -12,6 +12,7 @@
 
 
 -  Currently striving to learn more and more everyday.
+-  Can't function well without coffee.
 -  Now curious in learning **Scala** and **Python**!
 -  今わ日本語勉強します！
 

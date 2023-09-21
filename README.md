@@ -19,9 +19,9 @@
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-873.5%20thousand%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 31 mins       ████████████████░░░░░░░░░   62.22 % 
-JavaScript               2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               7 hrs 3 mins        ████████████████████░░░░░   79.69 % 
+JavaScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+ActionScript             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2023 01:15:45 UTC
+ Last Updated on 21/09/2023 01:15:10 UTC
 <!--END_SECTION:waka-->

@@ -19,9 +19,9 @@
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-873.5%20thousand%20lines%20of%20code-blue)
 
@@ -64,17 +64,17 @@ Sunday                   24 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 32 mins       █████████████████████░░░░   85.02 % 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+TypeScript               8 hrs 41 mins       █████████████████████░░░░   82.98 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2023 01:16:38 UTC
+ Last Updated on 27/09/2023 01:16:36 UTC
 <!--END_SECTION:waka-->

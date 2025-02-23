@@ -29,8 +29,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -86,5 +84,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2025 00:28:58 UTC
+ Last Updated on 23/02/2025 00:32:23 UTC
 <!--END_SECTION:waka-->

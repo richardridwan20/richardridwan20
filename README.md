@@ -19,9 +19,11 @@
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.61%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875.61%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -35,6 +37,42 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                430 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌆 Daytime                921 commits         ████████████████░░░░░░░░░   63.39 % 
+🌃 Evening                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   217 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Wednesday                303 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Thursday                 311 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Friday                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Saturday                 61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Sunday                   30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -48,5 +86,5 @@ Scala                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:42:23 UTC
+ Last Updated on 06/01/2026 00:38:02 UTC
 <!--END_SECTION:waka-->
